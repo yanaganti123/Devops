@@ -3,3 +3,14 @@ develop
 master/main
 release
 hotfix
+
+1. create feature branch from master branch
+2. create develop branch from master branch
+3. compare and pull request (develop <------------feature)
+4.create pull request -----> merge pull request-----> conform merge.
+5. merge develop branch to master branch
+6. create pull request -----> merge pull request-----> conform merge
+7. create release branch from master
+8. create hotfix branch from realease.
+9. hotfix branch -----> customer 
+10. merge hotfix branch to release branch untill customer is satisfied.

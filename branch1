@@ -13,3 +13,11 @@ hotfix
 7. create release branch from master
 8. create hotfix branch from realease.
 
+
+
+git branch
+git merge
+git diff
+git conflict
+git ignore
+git stash

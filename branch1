@@ -12,12 +12,11 @@ hotfix
 6. create pull request -----> merge pull request-----> conform merge
 7. create release branch from master
 8. create hotfix branch from realease.
-
-
-
 git branch
 git merge
 git diff
 git conflict
 git ignore
 git stash
+9. hotfix branch -----> customer 
+10. merge hotfix branch to release branch untill customer is satisfied.
